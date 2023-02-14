@@ -1,6 +1,6 @@
 # Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization
 
-[Coursera] [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization] (https://www.coursera.org/learn/deep-neural-network?)
+[Coursera] [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?)
 
 ## About this course
 * Learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications.
